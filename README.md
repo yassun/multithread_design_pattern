@@ -9,5 +9,8 @@
 - [Read-Write パターン](read-write)
 - [ThreadPerMessage パターン](thread-per-message)
 - [WorkerThread パターン](worker-thread)
-
+- [Balking パターン](balking)
+- [Future パターン](future)
+- [ThreadSpecificStorage パターン](thread-specific-storage)
+- [TwoPhaseTermination パターン](two-phase-termination)
 
